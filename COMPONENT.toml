@@ -3,7 +3,7 @@ name = "SigmaOS-command-completion"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "command-completion component"
+description = "Command Completion"
 upstream = []
 
 [contract]
